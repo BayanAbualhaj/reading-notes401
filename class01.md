@@ -27,6 +27,7 @@ ____________
 ![57](https://github.com/BayanAbualhaj/reading-notes401/blob/master/img/Screenshot%20(79).png?raw=true)
 
 
+______________________
 
 ***what is a promise?***:
 *a promise in programming is telling the code to **NOT** run until the function who called the promise is fully run, in simple words the first function need time to fully run and the second function is lighter(need less time) but it needs the information from the first function and because when reading the code the code order it self and then run and maybe without the promises the code will be damaged. 
