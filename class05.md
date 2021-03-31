@@ -21,6 +21,10 @@
     - The Current will tell us where exactly in the linked list we are and will allow us to move/traverse forward until we hit the end.
 
 * **Big O:**
+
+
+    ![57](https://miro.medium.com/max/1400/1*FkQzWqqIMlAHZ_xNrEPKeA.png)
+
     - The Big O of time for Includes would be O(n)This is because, at its worse case, the node we are looking for will be the very last node in the linked list.
     - **n** represents the number of nodes in the linked list.
     - The Big O of space for Includes would be O(1). This is because there is no additional space being used than what is already given to us with the linked list input.
@@ -37,17 +41,17 @@
 
 ![57](https://miro.medium.com/max/567/1*2xkFCMB1TWrmzs_e6rg_9g.png)
 
-    1 - Set Current equal to Head. This will guarantee us that we are starting from the very beginning.
+1 - Set Current equal to Head. This will guarantee us that we are starting from the very beginning.
 
-    2 - We can then instantiate the new node that we are adding.
+2 - We can then instantiate the new node that we are adding.
 
-    - The values passed in as arguments into the Add() method will define what the value of the Node will be.
+- The values passed in as arguments into the Add() method will define what the value of the Node will be.
 
-    - newNode.Next by default is set to null. We want to set newNode.Next property to the same location that the Head node is pointing towards.
+- newNode.Next by default is set to null. We want to set newNode.Next property to the same location that the Head node is pointing towards.
 
-    - Because Head is just a reference type, we will be assigning it to the same allocation in memory as the node it is pointing too. In this case, it’s Node1.
+- Because Head is just a reference type, we will be assigning it to the same allocation in memory as the node it is pointing too. In this case, it’s Node1.
 
-    - At this point in the program we now “technically” have newNode at the beginning of the linked list, but we are not done yet.
+    =- At this point in the program we now “technically” have newNode at the beginning of the linked list, but we are not done yet.
 
     - We now have to re-assign where Head is pointing too. Since Node1 is no longer the first node in the list, we want to re-assign Head to point at newNode.
 
@@ -62,8 +66,6 @@ _______________________________
 * non-linear data structures, items don’t have to be arranged in order, which means that we could traverse the data structure non-sequentially.
 
 * Linked lists don’t need to take up a single block of memory; instead, the memory that they use can be scattered throughout.
-
-____________________________________
 
 * A static data structure needs all of its resources to be allocated when the structure is created;this means that even if the structure was to grow or shrink in size and elements were to be added or removed, it still always needs a given size and amount of memory.
 
