@@ -70,5 +70,30 @@ ________________________
 * **The super** keyword is used to access and call functions on an object's parent.
 
 
+_____________________________
 
+* Data Model is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
+
+
+___________________________
+
+## SQL vs NoSQL:
+
+|  SQL     |  NoSQL: |
+| ----------- | ----------- |
+| relational      | non-relational      |
+| predefined schema | dynamic schemas      |
+| vertically scalable   | horizontally scalable      |
+| table based   | document, key-value, graph or wide-column stores.        |
+| better for multi-row transactions   | better for unstructured data like documents or JSON.        |
+
+
+______________________________________
+
+
+## NOSQL DATA MODELING TECHNIQUES:
+
+1. Denormalization: Denormalization can be defined as the copying of the same data into multiple documents or tables in order to simplify/optimize query processing or to fit the user’s data into a particular data model.
+
+2. Application Side Joins: Joins are rarely supported in NoSQL solutions. As a consequence of the “question-oriented” NoSQL nature, joins are often handled at design time as opposed to relational models where joins are handled at query execution time.
 
