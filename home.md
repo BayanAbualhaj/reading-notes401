@@ -8,3 +8,4 @@
 *  [ read03 ](https://bayanabualhaj.github.io/reading-notes401/class03)         
 *  [ read04 ](https://bayanabualhaj.github.io/reading-notes401/class04)         
 *  [ read05 ](https://bayanabualhaj.github.io/reading-notes401/class05)         
+*  [ read06 ](https://bayanabualhaj.github.io/reading-notes401/class06)         
