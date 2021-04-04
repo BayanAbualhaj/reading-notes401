@@ -9,3 +9,5 @@
 *  [ read04 ](https://bayanabualhaj.github.io/reading-notes401/class04)         
 *  [ read05 ](https://bayanabualhaj.github.io/reading-notes401/class05)         
 *  [ read06 ](https://bayanabualhaj.github.io/reading-notes401/class06)         
+*  [ read07 ](https://bayanabualhaj.github.io/reading-notes401/class07)  
+       
