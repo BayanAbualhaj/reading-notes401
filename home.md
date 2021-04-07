@@ -12,4 +12,6 @@
 *  [ read07 ](https://bayanabualhaj.github.io/reading-notes401/class07)  
 *  [ read08 ](https://bayanabualhaj.github.io/reading-notes401/class08)  
 *  [ read09 ](https://bayanabualhaj.github.io/reading-notes401/class09)  
+*  [ read10 ](https://bayanabualhaj.github.io/reading-notes401/class10)  
+*  [ read11 ](https://bayanabualhaj.github.io/reading-notes401/class11)  
        
