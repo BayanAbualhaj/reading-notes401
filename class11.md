@@ -2,11 +2,16 @@
 
 ### Why is access control important?
 Access control is a fundamental component of security compliance programs that ensures security technology and access control policies are in place to protect confidential information, such as customer data. Most organizations have infrastructure and procedures that limit access to networks, computer systems, applications, files and sensitive data, such as personally identifiable information (PII) and intellectual property.
-
-
-* **Role-based access control (RBAC)**. This is a widely used access control mechanism that restricts access to computer resources based on individuals or groups with defined business functions -- e.g., executive level, engineer level 1, etc. -- rather than the identities of individual users. The role-based security model relies on a complex structure of role assignments, role authorizations and role permissions developed using role engineering to regulate employee access to systems. RBAC systems can be used to enforce MAC and DAC frameworks.
+_________________________
+### Describe an application that would need access control.
 
 * apps in  Most organizations have infrastructure and procedures that limit access to networks, computer systems, applications, files and sensitive data, such as personally identifiable information (PII) and intellectual property. so all need control access.
+____________________________________
+### What is a role used for?
+### Why is role based access control more scalable than discretionary or mandatory access control?
+
+* **Role-based access control (RBAC)**. This is a widely used access control mechanism that restricts access to computer resources based on individuals or groups with defined business functions -- e.g., executive level, engineer level 1, etc. -- rather than the identities of individual users. The role-based security model relies on a complex structure of role assignments, role authorizations and role permissions developed using role engineering to regulate employee access to systems. RBAC systems can be used to enforce MAC and DAC frameworks.
+_______________________________
 
 * **Authorization** is a security mechanism used to determine user/client privileges or access levels related to system resources, including computer programs, files, services, data and application features. 
 
