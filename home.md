@@ -19,4 +19,5 @@
 *  [ read14 ](https://bayanabualhaj.github.io/reading-notes401/class14)  
 *  [ cloud servers ](https://bayanabualhaj.github.io/reading-notes401/class16)  
 *  [ AWS: S3 and Lambda](https://bayanabualhaj.github.io/reading-notes401/class17)  
+*  [ API, Dynamo and Lambda](https://bayanabualhaj.github.io/reading-notes401/class18)  
        
