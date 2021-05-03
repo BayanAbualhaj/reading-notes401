@@ -9,6 +9,7 @@
 4. Backbone.js
 5. Meteor
 
+
 _________________________________
 
 ### What’s the difference between a framework and a library?
@@ -18,6 +19,7 @@ _________________________________
 The technical difference between a framework and library lies in a term called inversion of control. When you use a library, you are in charge of the application flow. You choose when and where to call the library. When you use a framework, the framework is in charge of the flow. It provides you with a few places to plug in your code, but it calls the code you plugged in as needed.
 
 frameworks are more opinionated and libraries are more flexible. 
+
 ____________________________________
 
 * ***state*** of a program is defined as its condition regarding stored inputs. The term "state" here is used similarly to how it is used in science — whereas the state of an object, for instance, as a gas, liquid or solid, shows its current physical makeup, the state of a computer program shows its current values or contents.
@@ -25,6 +27,7 @@ ____________________________________
 * **Templates** are a feature programming language that allows functions and classes to operate with generic types. This allows a function or class to work on many different data types without being rewritten for each one.
 
 * **Rendering** or image synthesis is the process of generating a photorealistic or non-photorealistic image from a 2D or 3D model by means of a computer program. The resulting image is referred to as the render. Multiple models can be defined in a scene file containing objects in a strictly defined language or data structure.
+
 _________________________________
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VGH2PVcG6xAr4Q5Aukpzb-UbyMHwYM1ZPQ&usqp=CAU)
