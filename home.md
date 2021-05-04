@@ -23,4 +23,5 @@
 *  [AWS: Events ](https://bayanabualhaj.github.io/reading-notes401/class19)  
 *  [Component Based UI ](https://bayanabualhaj.github.io/reading-notes401/class26)  
 *  [ Props and State](https://bayanabualhaj.github.io/reading-notes401/class27)  
+*  [ Component Composition](https://bayanabualhaj.github.io/reading-notes401/class28)  
        
