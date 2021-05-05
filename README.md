@@ -25,3 +25,4 @@
 *  [Component Based UI ](https://bayanabualhaj.github.io/reading-notes401/class26)  
 *  [ Props and State](https://bayanabualhaj.github.io/reading-notes401/class27)  
 *  [ Routing](https://bayanabualhaj.github.io/reading-notes401/class29)
+*  [ Hash Table ](https://bayanabualhaj.github.io/reading-notes401/class30)
