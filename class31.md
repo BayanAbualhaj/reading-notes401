@@ -38,7 +38,7 @@ _______________________________
 
 ## Hooks
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjoefstack%2Fhandling-multi-page-api-calls-with-react-hooks-19jd&psig=AOvVaw1nhgxGBgMAUnK92DNo4GQr&ust=1620626183801000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDkxJL1u_ACFQAAAAAdAAAAABAJ)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--kwQrDEbF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.morioh.com/2934a8d84c.png)
 
 
 ### Why Hooks?
