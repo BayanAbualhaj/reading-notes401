@@ -26,3 +26,4 @@
 *  [ Props and State](https://bayanabualhaj.github.io/reading-notes401/class27)  
 *  [ Routing](https://bayanabualhaj.github.io/reading-notes401/class29)
 *  [ Hash Table ](https://bayanabualhaj.github.io/reading-notes401/class30)
+*  [ Hooks API ](https://bayanabualhaj.github.io/reading-notes401/class31)
