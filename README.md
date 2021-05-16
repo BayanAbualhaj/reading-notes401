@@ -27,3 +27,4 @@
 *  [ Routing](https://bayanabualhaj.github.io/reading-notes401/class29)
 *  [ Hash Table ](https://bayanabualhaj.github.io/reading-notes401/class30)
 *  [ Hooks API ](https://bayanabualhaj.github.io/reading-notes401/class31)
+*  [ Custom Hooks  ](https://bayanabualhaj.github.io/reading-notes401/class32)
