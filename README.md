@@ -30,3 +30,5 @@
 *  [ Custom Hooks  ](https://bayanabualhaj.github.io/reading-notes401/class32)
 *  [ Context API  ](https://bayanabualhaj.github.io/reading-notes401/class33)
 *  [ login and   ](https://bayanabualhaj.github.io/reading-notes401/class34)
+*  [ Graph  ](https://bayanabualhaj.github.io/reading-notes401/class35)
+*  [ App state   ](https://bayanabualhaj.github.io/reading-notes401/class36)
