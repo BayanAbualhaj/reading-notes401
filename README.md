@@ -33,4 +33,6 @@
 *  [ Graph  ](https://bayanabualhaj.github.io/reading-notes401/class35)
 *  [ App state   ](https://bayanabualhaj.github.io/reading-notes401/class36)
 *  [ Redux - Combined Reducers   ](https://bayanabualhaj.github.io/reading-notes401/class37)
+*  [ Redux - Asynchronous Actions   ](https://bayanabualhaj.github.io/reading-notes401/class38)
+*  [ Redux - Additional Topics ](https://bayanabualhaj.github.io/reading-notes401/class39)
 *  [ React Native  ](https://bayanabualhaj.github.io/reading-notes401/class41)
